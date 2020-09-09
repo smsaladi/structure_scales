@@ -66,12 +66,15 @@ For reference, code to generate the provided PDB files is provided.
 Here's how we did it:
 
 ```shell
+python create_scalebar.py 10 > scale_10.pdb
 python create_scalebar.py 100 > scale_100.pdb
 python create_scalebar.py 1000 > scale_1000.pdb
 python create_scalebar.py 10000 > scale_10000.pdb
+python create_scalebar.py 25 > scale_25.pdb
 python create_scalebar.py 250 > scale_250.pdb
 python create_scalebar.py 2500 > scale_2500.pdb
 python create_scalebar.py 25000 > scale_25000.pdb
+python create_scalebar.py 50 > scale_50.pdb
 python create_scalebar.py 500 > scale_500.pdb
 python create_scalebar.py 5000 > scale_5000.pdb
 python create_scalebar.py 50000 > scale_50000.pdb
