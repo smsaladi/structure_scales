@@ -52,12 +52,16 @@ Illustrator, Inkscape, or the like.
 For those interested, here are software-specific approches to creating
 scale and color bars:
 
-* PyMOL: [`Spectrumbar`][https://pymolwiki.org/index.php/Spectrumbar]
-which uses the [Compiled graphics objects (CGO)] interface (written by Sean Law)
-* ChimeraX: A [suggestion](http://www.rbvi.ucsf.edu/pipermail/chimerax-users/2018-December/000341.html) from Elaine Meng that uses ChimeraX's BILD format for
-specifying 2d and 3d geometric objects
-* Chimera: [scalebar](http://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/scalebar/scalebar.html) and [colorkey](http://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/2dlabels/2dlabels.html#colorkey)
-* VMD: [color_scale_bar.tcl](https://www.ks.uiuc.edu/Research/vmd/mailing_list/vmd-l/att-4608/color_scale_bar_new.tcl) written by Wuwei Liang and later modified by Dan Wright
+* PyMOL: [`Spectrumbar`](https://pymolwiki.org/index.php/Spectrumbar)
+which uses the [Compiled graphics objects (CGO)](https://pymolwiki.org/index.php/Category:CGO)
+interface and written by Sean Law
+* ChimeraX: A [suggestion](http://www.rbvi.ucsf.edu/pipermail/chimerax-users/2018-December/000341.html)
+from Elaine Meng that uses ChimeraX's [BILD](http://rbvi.ucsf.edu/chimerax/docs/user/formats/bild.html)
+format for specifying 2d and 3d geometric objects
+* Chimera: [scalebar](http://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/scalebar/scalebar.html)
+and [colorkey](http://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/2dlabels/2dlabels.html#colorkey)
+* VMD: [color_scale_bar.tcl](https://www.ks.uiuc.edu/Research/vmd/mailing_list/vmd-l/att-4608/color_scale_bar_new.tcl)
+written by Wuwei Liang and later modified by Dan Wright
 
 
 ### Remaking the scale bars
