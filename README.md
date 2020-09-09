@@ -18,8 +18,19 @@ a citation in academic work to help spread scale & colorbars in the community.
 
 ### Sample
 
-```bash
+First 10 atoms of `scale_100.pdb`
 
+```text
+ATOM      1 CA   DUM A   1       0.000   0.000   0.000  0.00  0.00      A    C
+ATOM      2 CA   DUM A   1       0.100   0.000   0.000  0.00  0.10      A    C
+ATOM      3 CA   DUM A   1       0.200   0.000   0.000  0.00  0.20      A    C
+ATOM      4 CA   DUM A   1       0.300   0.000   0.000  0.00  0.30      A    C
+ATOM      5 CA   DUM A   1       0.400   0.000   0.000  0.00  0.40      A    C
+ATOM      6 CA   DUM A   1       0.501   0.000   0.000  0.01  0.50      A    C
+ATOM      7 CA   DUM A   1       0.601   0.000   0.000  0.01  0.60      A    C
+ATOM      8 CA   DUM A   1       0.701   0.000   0.000  0.01  0.70      A    C
+ATOM      9 CA   DUM A   1       0.801   0.000   0.000  0.01  0.80      A    C
+ATOM     10 CA   DUM A   1       0.901   0.000   0.000  0.01  0.90      A    C
 ```
 
 ### Usage
