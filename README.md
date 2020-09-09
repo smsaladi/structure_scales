@@ -13,8 +13,8 @@ and occupancy between 0 and 1, so the scalebar can double as a colorbar as well.
 All atoms are of atom type `CA` of residue `DUM` and assigned
 chain A and segment A.
 
-PDB files are licensed as CC0 (no attribution necessary), although we'd appreciate
-a citation in academic work to help spread scale & colorbars in the community.
+To help spread scale and colorbars in the community, PDB files are licensed as
+[CC0](https://wiki.creativecommons.org/wiki/CC0) and can be cited as Caltech Data DOI.
 
 ### Sample
 
