@@ -1,3 +1,6 @@
+[![DOI](https://data.caltech.edu/badge/294240937.svg)](https://data.caltech.edu/badge/latestdoi/294240937)
+
+
 structure_scales
 ================
 
